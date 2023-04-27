@@ -1,31 +1,31 @@
-﻿Tm,R,RBI,OBP,SLG,OPS,OPS+,TB
-Arizona Diamondbacks,21,18,0.263,0.335,0.598,61,75
-Atlanta Braves,39,36,0.357,0.484,0.841,123,120
-Baltimore Orioles,34,33,0.343,0.478,0.821,129,98
-Boston Red Sox,41,39,0.332,0.45,0.783,110,109
-Chicago Cubs,28,26,0.343,0.398,0.741,100,70
-Chicago White Sox,32,32,0.341,0.434,0.775,117,112
-Cincinnati Reds,25,24,0.335,0.509,0.845,116,82
-Cleveland Guardians,38,33,0.334,0.372,0.706,100,94
-Colorado Rockies,23,22,0.293,0.387,0.68,83,92
-Detroit Tigers,21,21,0.257,0.301,0.558,56,72
-Houston Astros,34,32,0.342,0.366,0.707,99,87
-Kansas City Royals,17,17,0.259,0.278,0.537,50,60
-Los Angeles Angels,33,33,0.332,0.383,0.715,102,79
-Los Angeles Dodgers,43,42,0.369,0.514,0.883,129,114
-Miami Marlins,15,15,0.28,0.376,0.656,76,82
-Milwaukee Brewers,38,38,0.371,0.457,0.828,121,91
-Minnesota Twins,24,23,0.295,0.363,0.657,85,74
-New York Mets,23,22,0.311,0.323,0.634,73,73
-New York Yankees,29,27,0.33,0.458,0.789,118,88
-Oakland Athletics,22,21,0.283,0.342,0.624,79,68
-Philadelphia Phillies,18,16,0.309,0.431,0.74,98,90
-Pittsburgh Pirates,23,22,0.293,0.377,0.67,81,75
-San Diego Padres,31,29,0.311,0.443,0.754,107,98
-Seattle Mariners,29,27,0.286,0.376,0.662,89,88
-San Francisco Giants,38,38,0.368,0.512,0.879,136,111
-St. Louis Cardinals,29,28,0.38,0.484,0.864,137,103
-Tampa Bay Rays,44,43,0.348,0.542,0.89,147,109
-Texas Rangers,36,34,0.319,0.439,0.758,111,86
-Toronto Blue Jays,33,29,0.353,0.406,0.759,114,103
-Washington Nationals,17,17,0.302,0.289,0.59,62,65
+﻿Tm,R,RBI,OBP,SLG,OPS,OPS+,TB,GDP
+Arizona Diamondbacks,121,116,.312,.412,.723,99,358,22
+Atlanta Braves,130,123,.340,.459,.799,114,392,22
+Baltimore Orioles,125,121,.336,.419,.755,111,331,22
+Boston Red Sox,146,138,.329,.429,.758,106,378,21
+Chicago Cubs,130,124,.347,.443,.790,117,355,13
+Chicago White Sox,96,94,.287,.365,.652,80,312,13
+Cincinnati Reds,107,102,.319,.348,.667,77,283,12
+Cleveland Guardians,95,85,.313,.348,.661,88,292,18
+Colorado Rockies,98,94,.305,.372,.677,76,326,24
+Detroit Tigers,70,69,.279,.330,.609,75,259,16
+Houston Astros,122,118,.328,.384,.712,99,329,20
+Kansas City Royals,82,76,.275,.343,.618,73,285,18
+Los Angeles Angels,131,129,.332,.420,.752,108,354,21
+Los Angeles Dodgers,130,128,.321,.449,.771,106,368,12
+Miami Marlins,80,79,.300,.385,.685,89,318,25
+Milwaukee Brewers,119,115,.325,.406,.731,102,338,21
+Minnesota Twins,109,104,.303,.399,.702,97,333,16
+New York Mets,113,109,.329,.378,.707,99,313,18
+New York Yankees,108,101,.308,.392,.700,96,318,16
+Oakland Athletics,92,90,.304,.369,.673,94,308,20
+Philadelphia Phillies,113,109,.336,.450,.786,115,393,14
+Pittsburgh Pirates,126,119,.335,.435,.771,111,364,19
+San Diego Padres,97,93,.301,.370,.671,91,310,20
+Seattle Mariners,108,106,.301,.387,.688,96,312,14
+San Francisco Giants,111,108,.322,.423,.744,101,350,16
+St. Louis Cardinals,111,108,.342,.430,.772,116,369,21
+Tampa Bay Rays,157,154,.349,.509,.858,143,430,10
+Texas Rangers,154,150,.340,.440,.781,119,358,14
+Toronto Blue Jays,120,115,.338,.415,.753,112,355,15
+Washington Nationals,85,81,.320,.342,.663,88,268,21
